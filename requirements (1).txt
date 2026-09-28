@@ -1,4 +1,0 @@
-streamlit
-Pillow>=9.1
-requests
-beautifulsoup4
