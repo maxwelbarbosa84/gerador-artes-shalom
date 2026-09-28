@@ -1,2 +1,0 @@
-fonts-montserrat
-fonts-dejavu-core
